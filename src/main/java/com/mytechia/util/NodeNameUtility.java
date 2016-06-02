@@ -18,7 +18,7 @@
  *   along with Mytechia Commons.  If not, see <http://www.gnu.org/licenses/>.
  * 
  ******************************************************************************/
-package com.visual.luminare360.robobo.util;
+package com.mytechia.util;
 
 /**
  *
